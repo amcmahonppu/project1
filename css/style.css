@@ -1,2 +1,6 @@
 .container{ margin-top: 150px}
-body { background-color: #fafafa}
+body { background-color: #add8e6}
+
+.btn btn-danger{
+  justify-content: center;
+}
